@@ -46,6 +46,7 @@ WHERE
 5. Data Analysis & Findings:
    
    1. Customer Insights
+      
       Q1. Who are the top 10 customers by total purchase value (Customer Lifetime Value)?
        ```sql
       SELECT user_id, SUM(purchase) AS total_spent
@@ -81,6 +82,7 @@ WHERE
       ORDER BY total_revenue DESC;
       ```
    2. Product Performance:
+      
       Q1. Which products generate the highest revenue overall?
       ```sql
       SELECT product_id, SUM(purchase) AS total_revenue
@@ -123,6 +125,7 @@ WHERE
     ORDER BY gender, revenue DESC;
    ```
    3. Sales & Revenue Trends
+      
       Q1. What is the average purchase amount per transaction?
       ```sql
       SELECT ROUND(AVG(purchase),2) AS avg_purchase
@@ -158,6 +161,7 @@ WHERE
       LIMIT 5;
       ```
    4. Customer Segmentation
+
       Q1. Classify customers into High-Value, Medium-Value, and Low-Value segments based on their total purchase amount.
       ```sql
       SELECT 
