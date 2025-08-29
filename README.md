@@ -44,6 +44,7 @@ WHERE
 	OR purchase IS NULL
 ```
 5. Data Analysis & Findings:
+   
    1. Customer Insights
       Q1. Who are the top 10 customers by total purchase value (Customer Lifetime Value)?
        ```sql
