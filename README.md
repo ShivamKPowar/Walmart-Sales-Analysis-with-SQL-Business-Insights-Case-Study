@@ -7,7 +7,6 @@ This project analyzes Walmart sales data using SQL to uncover meaningful busines
 - To evaluate product performance across different categories.
 - To analyze sales and revenue trends over time.
 - To conduct customer segmentation based on behavior and demographics.
-- To identify cross-selling and affinity opportunities for better product bundling.
 # Project Structure
 The project is divided into the following sections:
 1. Database Setup:
