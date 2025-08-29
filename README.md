@@ -1,4 +1,4 @@
-# Walmart-Sales-Analysis-with-SQL-Business-Insights-Case-Study
+# Walmart Sales Analysis with SQL-Business Insights And Case Study
 # Project Overview
 This project analyzes Walmart sales data using SQL to uncover meaningful business insights. The analysis focuses on key areas such as customer behavior, product performance, sales trends, segmentation, and cross-selling opportunities. The project demonstrates how SQL can be leveraged not just for querying data but also for answering business-critical questions that drive decision-making.
 # Objectives
